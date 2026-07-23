@@ -1,1 +1,7 @@
-
+{
+  "permissions": {
+    "allow": [
+       "Bach(docker compose:*)"
+    ]
+  }
+}
